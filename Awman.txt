@@ -1,0 +1,35 @@
+# Adobe Activation & Telemetry
+activate.adobe.com
+practivate.adobe.com
+ereg.adobe.com
+lmlicenses.wip4.adobe.com
+lm.licenses.adobe.com
+na1r.services.adobe.com
+ims-na1.adobelogin.com
+adobeereg.com
+adobe-dns.adobe.com
+adobestats.adobe.com
+prod.adobegenuine.com
+adobe.com.edgekey.net
+adobe.tt.omtrdc.net
+assets.adobedtm.com
+
+# Creative Cloud
+ccmdls.adobe.com
+cc-api-data.adobe.io
+cc-api-data.adobe.com
+cc-services.adobe.com
+na2m-pr.licenses.adobe.com
+prod-rel-ffc-ccm.oobesaas.adobe.com
+
+# Maxon Cinema 4D / Red Giant Licensing
+my.maxon.net
+licensing.maxon.net
+api.maxon.net
+rglicense.redgiant.com
+redgiant.com
+updates.redgiant.com
+
+# Generic Analytics / Tracking
+metrics.adobe.com
+adobedc.demdex.net
